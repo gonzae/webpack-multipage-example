@@ -24,3 +24,4 @@ npm run build
 ```
 npm start
 ```
+Now, open your browser and go to http://localhost:3000/. Check the app is up and running.
