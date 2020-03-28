@@ -1,4 +1,4 @@
-# Webpack Multi-Page example
+# Webpack Express Multi-Page example
 
 ## Motivation
 I'm very new on [Webpack](https://webpack.js.org) and I've been working on a project for integrating some external apps with my company application and I was exploring the possibility to create a component that could behave as a multi-page application using React. After that, I had a conversation with a friend saying that I found out that Webpack was a very powerful tool. He told me that he always tought that Multi-page applications were not supported on Webpack. So this tiny example is to demonstrate how to use it in a Multi-page application.
