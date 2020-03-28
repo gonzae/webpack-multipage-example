@@ -1,0 +1,1 @@
+console.log('The js code for Component was included in bundle.');
