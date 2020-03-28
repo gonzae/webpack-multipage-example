@@ -6,7 +6,7 @@ I'm very new on [Webpack](https://webpack.js.org) and I've been working on a pro
 ## New exploration paths
 I didn't try this with any template engine, any JS traspilation and how to support CSS. I think this could be solved exploring [Webpack Plugins](https://webpack.js.org/plugins/]).
 
-## Dependencies:
+## Dependencies
 - NodeJS >= v8.10.0 - https://nodejs.org/
 - NPM >= 5.6.0  - https://www.npmjs.com/
 
